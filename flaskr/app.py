@@ -1,4 +1,4 @@
-from gen_cw import create_app
+from flaskr import create_app
 app = create_app()
 
 if __name__ == '__main__':
